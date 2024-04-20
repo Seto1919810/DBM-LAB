@@ -1,0 +1,1 @@
+CMU 15-445 FALL 2022 SQL sols
